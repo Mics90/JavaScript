@@ -23,3 +23,5 @@ window.alert("Hello World!");//pop up with text
             var result = str.fontcolor("green");//text color
             document.getElementById("Green_Text").innerHTML = result;//finds element by id in html
         }
+
+        
