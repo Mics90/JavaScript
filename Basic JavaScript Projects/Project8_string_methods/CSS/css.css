@@ -1,0 +1,40 @@
+html {
+    background-color: rgb(197, 195, 195); /*  background clor for whole document */
+    text-align: center; /* text alignment */
+}
+
+h1 {
+    color: rgb(5, 5, 133); /* H1 color */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    color: rgb(80, 4, 4);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+button {
+    background-color: aqua;
+    cursor: pointer;
+}
+
+button:hover {
+    color: aliceblue; /* button on hover */
+    background-color: black;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: larger;
+    padding: 2rem;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 2px solid black;
+    background-color: rgb(1, 80, 90);
+    font-weight: bold;
+    color: white;
+    
+}
+
